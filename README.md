@@ -16,7 +16,7 @@
 
 
 
-![](/Users/Tekin/Downloads/CSharp/MyWebServer/docs/server.png)
+![](./docs/server.png)
 
 
 
@@ -24,7 +24,7 @@
 
 ## .aspx 网页服务运行效果
 
-![](/Users/Tekin/Downloads/CSharp/MyWebServer/docs/helloworld.aspx.png)
+![](./docs/helloworld.aspx.png)
 
 
 
