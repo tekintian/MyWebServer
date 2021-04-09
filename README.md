@@ -12,6 +12,16 @@
 
 
 
+可执行文件下载:
+
+
+
+注意: 本项目依赖 .NET Framework 4.6.1 , 你的电脑需要安装这个运行库
+
+下载地址: https://go.microsoft.com/fwlink/?LinkId=671728
+
+
+
 ## 运行效果
 
 
